@@ -28,4 +28,7 @@ Use tools:
 1. **Java**
 2. **JUnit framework**
 3. **Rest assured library**
+4. **OOP**
+5. **Page Object Model**
+6. **Log4J**
    
